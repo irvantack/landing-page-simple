@@ -1,4 +1,4 @@
-# LinkTree
+# LandingPage
 This is a bootstrap one page application devoloped for just sharing social links just replace with your
 details.
 
